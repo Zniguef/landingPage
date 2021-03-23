@@ -291,7 +291,12 @@ body {
     line-height: 1.5;
     font-weight: 600;
 }
+                        /* forth part */
 
-/* .forth-part {
-    height: 100vh;
-} */
+.forth-part {
+    padding-top: 25px;
+}
+
+.content-forth {
+    display: flex;
+}
