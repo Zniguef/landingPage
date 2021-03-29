@@ -334,10 +334,48 @@ body {
     font-weight: 600;
     margin-bottom: 10px;
 }
-/* 
-.box-right .f2 h1 {
-    color: hsl(208, 49%, 24%);
-    font-size: 18PX;
-    font-weight: bold;
-    padding-bottom: 20px;
-} */
+
+
+
+
+                    /* footer */
+
+.last-step {
+    padding-top: 95px;
+}
+
+.footer {
+    width: 100%;
+    height: 250px;
+    background-color: hsl(240, 10%, 16%);
+    border-radius: 0 90px 0 0;
+}
+
+.box-footer {
+    display: flex;
+    flex-direction: row;
+    padding-top: 55px;
+}
+
+.prt {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.blogr {
+    margin-left: 60px;
+}
+
+.blogr h1 {
+    color: hsl(0, 0%, 100%);
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.footer-menu {
+    display: flex;
+    width: 900px;
+    justify-content: space-around;
+    margin-left: 20px;
+}
